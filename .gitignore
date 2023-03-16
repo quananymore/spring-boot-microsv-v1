@@ -1,0 +1,6 @@
+# Project exclude paths
+/base-domain/target/
+/order-serv/target/
+/payment-serv/target/
+/stock-serv/target/
+/.idea
